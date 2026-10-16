@@ -10,8 +10,7 @@ just a little Test.
 # New Title
 Thsi is a new Text 
 # This is a test test est test #lorem 
-lorem is Latin
-😈😈😈😈 i'm getting bronze achievement 
+lorem is Latin i'm getting bronze achievement 
 
 
 Pullshark im coming
